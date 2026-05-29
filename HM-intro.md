@@ -2,7 +2,7 @@
 # 성별: 남
 # 사는 곳 : 오류동
 # 나이: 98년생
-# 이메일: gom2553@naver.com
+# Email: gom2553@naver.com
 # MBTI : INTJ
 # 좋아하는 음식: 만두
 # 취미: 헬스
