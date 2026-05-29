@@ -2,7 +2,7 @@
 # 성별 : 남
 # 사는 곳 : 서울
 # 나이 : 00년생
-# EMAIL : jj051232@gmail.com
+# Email : jj051232@gmail.com
 # MBTI : INFJ
 # 좋아하는 음식 : 피자
 # 취미 : 독서
