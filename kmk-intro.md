@@ -3,3 +3,5 @@
 # 사는곳:서울
 # Email : tender0602@naver.com
 # MBTI : ISTP 
+# 좋아하는 음식 : 초밥
+# 취미: 기타
