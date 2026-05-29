@@ -4,3 +4,5 @@
 # 나이 : 00
 # EMAIL : jj051232@gmail.com
 # MBTI : INFJ
+# 좋아하는 음식 : 피자
+# 취미 : 독서
